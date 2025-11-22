@@ -26,8 +26,6 @@ This repository contains various scripts, tools, and a mini project related to C
    ```
    (Replace with the script you want to run.)
 
-3. For the mini project, see `CSFMiniProject/README.md` for details.
-
 ## Requirements
 - Python 3.x
 - Additional dependencies may be required for some scripts (see comments in each script or project README).
